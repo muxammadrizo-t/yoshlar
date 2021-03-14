@@ -1,0 +1,138 @@
+/*font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;*/
+
+.header__item__logo {
+	padding: 30px 10px 10px 10px;
+}
+
+.section__pop {
+	font-family: 'Poppins', sans-serif;
+	color: #967675;
+	font-weight: 300;
+	font-size: 12px;
+	margin: 0px;
+}
+
+.section__pop__h1 {
+	font-family: 'Playfair Display', serif;
+	color: #23242C;
+	font-size: 73px;
+}
+
+.learn__more {
+	background: #FFFFFF;
+	border: 1px solid #CFADAC;
+	box-sizing: border-box;
+	border-radius: 6px;
+	background: #FFFFFF;
+	box-shadow: 0px 8px 21px rgba(150, 79, 76, 0.32);
+	border-radius: 6px;
+}
+
+.col-md-2 {
+	padding-right: 0;
+}
+
+.push {
+	padding-top: 50px;
+}
+
+.normal {
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+}
+
+.back {
+	background-image: url('../img/More.png');
+	background-size: cover;
+	background-position: center;
+}
+
+.show__more__link {
+	padding-top: 37px;	
+}
+
+
+.learn__more>p {
+	font-family: 'Poppins', sans-serif;
+	font-size: 16px;
+	color: #967675;
+	margin-bottom: 6px;
+    margin-top: 6px;
+}
+
+.line__left {
+	border: 1px solid grey;
+}
+
+.small__circle {
+	  width: 200px;
+      height: 200px;
+      -webkit-border-radius: 25px;
+      -moz-border-radius: 25px;
+      border-radius: 100%;
+      background: rgba(250, 226, 214, 0.4);
+}
+
+.big__circle {
+	width: 518px;
+	height: 518px;
+	left: 611px;
+	top: 351px;
+	opacity: 0.1;
+	border-radius: 285px;
+	border: 1px solid #23242C;
+	box-sizing: border-box;
+}
+
+.first__text__logo {
+	font-family: 'Playfair Display', serif;
+	font-style: italic;
+}
+
+.befors {
+	width: 3px;
+	height: 3px;
+	left: 142px;
+	top: 998px;
+	background: #964F4C;
+}
+
+.first__text {
+	width: 214px;
+}
+
+.second__text {
+	width: 214px;
+}
+
+.threeth__text {
+	width: 214px;
+}
+
+.section__pop__h1__1 {
+	font-family: 'Playfair Display', serif
+}
+
+.card-body {
+	background: #F6ECE8;
+}
+
+
+.card {
+	border: 0;
+	border-radius: 0;
+}
+
+@media (max-width: 500px) {
+	header {
+		display: flex;
+		justify-content: space-between;
+	}
+}
+
+@media (min-width: 375px) {
+	.section__pop__h1 {
+		font-size: 40px;
+	}
+}
